@@ -1,0 +1,21 @@
+.flag-red {
+  width: 150px;
+  height: 75px;
+  border: black solid 1px;
+  text-align: center;
+  /* padding-top: calc(100% / 2); */
+  box-sizing: border-box;
+  padding-top: 30px;
+  background: red;
+}
+
+.flag-green {
+  width: 150px;
+  height: 75px;
+  border: black solid 1px;
+  text-align: center;
+  /* padding-top: calc(100% / 2); */
+  box-sizing: border-box;
+  padding-top: 30px;
+  background: green;
+}

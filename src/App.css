@@ -1,13 +1,36 @@
 /* Other rules */
-
+.header {
+  border-bottom: black solid 1px;
+}
+.header div {
+  width: 300px;
+  padding-left: 20px;
+  height: 50px;
+  /* border-bottom: black solid 1px; */
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: blue;
+  font-size: 30px;
+}
 .main {
+  width: 1000px;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  margin: 100px auto;
+  margin: 10px auto;
+  padding-top: 50px;
+  /* border-top: black solid 1px; */
 }
 .flag {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.footer {
+  margin-top: 100px;
+  height: 50px;
+  text-align: center;
+  padding-top: 20px;
+  user-select: none;
 }

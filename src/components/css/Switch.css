@@ -28,7 +28,7 @@
   background: white;
   width: calc(100% / 3);
   height: 100%;
-  border: black solid 1px;
+  border: blue solid 1px;
   box-sizing: border-box;
   color: blue;
 }

@@ -17,7 +17,7 @@ function App() {
           <span style={{ color: "blue" }}>
             <i className="fas fa-calculator"></i>
           </span>
-          <span style={{ fontWeight: "bold" }}>React Counter</span>
+          <span style={{ fontWeight: "bold" }}>Ready To Go</span>
         </div>
       </header>
       <div className="main">
